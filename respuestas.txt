@@ -1,7 +1,7 @@
 
 
-
 1.- ¿Cuál es el propósito de trabajar con múltliples ramas?
 
 3.- ¿Cuál es la ventaja de reorganizar (rebase)?
+
 
