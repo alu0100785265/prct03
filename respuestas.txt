@@ -1,5 +1,5 @@
 ‘Respuestas a las preguntas de la pr´actica 3’.
-( echo "Respuestas a las preguntas de la pr´actica 3" > respuestas.txt )
+( echo "Respuestas a las preguntas de la practica 3" > respuestas.txt )
 
-: 1.- ¿Cu´al es el prop´osito de trabajar con m´utliples ramas?
-: 3.- ¿Cu´al es la ventaja de reorganizar (rebase)?
+¿Cual es el proposito de trabajar con mutliples ramas?
+¿Cual es la ventaja de reorganizar (rebase)?
